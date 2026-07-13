@@ -10,7 +10,7 @@ A youth-led creative agency and multi-vertical tech ecosystem building for East 
 
 | Product | What it is |
 |---|---|
-| **[SEEN](https://github.com/creova-gif/seen-fashion)** | Interactive multilingual storytelling platform (audio, film, cultural content) — CREOVA's flagship digital product |
+| **[SEEN](https://github.com/creova-gif/SEEN)** | Interactive multilingual storytelling platform (audio, film, cultural content) — CREOVA's flagship digital product |
 | **[GoPay](https://github.com/creova-gif/gopay)** | East African fintech super app — payments, government services, merchant tools |
 | **[AfyaCare](https://github.com/creova-gif/clinic-ai)** | AI-first clinic & pharmacy OS for rural health centers in Tanzania and East Africa |
 | **[Kaya](https://github.com/creova-gif/kaya-rentals)** | AI-powered rental property management for Ontario landlords and tenants |
